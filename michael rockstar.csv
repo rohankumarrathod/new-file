@@ -1,0 +1,21 @@
+﻿id,name,c1,c2,c3,story,nav,win,lose,bird,stranger,weather
+1,michael,2,3,4,"I am michael, I am director of the rockstar game","press 1 to go to vegas, press 2 to go to vaughan, press 3 to go to casino",0,0,0,1,1
+2,vegas,7,11,10,"welcome to the game world, just trying your luck","press 1 to go to forest, press 2 to go to mars, press 3 to go to madagascar",0,0,1,0,1
+3,vaughan,8,10,4,you are building new home here or all you will lost in canada's wonderland,"press 1 to go to moon , press 2 to go to madagascar , press 3 to go to casino",0,0,1,0,1
+4,casino,5,9,12,you can play lots of money games but not money heist,"press 1 to go to tokyo, press 2 to go to vulcano, press 3 to go to playground",0,0,0,0,1
+5,tokyo,13,6,15,where the people living in future,"press 1 to go to dubai, press 2 to go to hong kong, press 3 to go to san francisco",0,0,0,0,1
+6,hong kong,8,9,20,"welcome to hong kong, make a movie with james bond","press 1 to go to moon, press 2 to go to vulcano, press 3 to go to texas",0,0,0,1,1
+7,forest,5,19,13,here you are lost in the bush with pythons ,"press 1 to go to tokyo, press 2 to go to alps, press 3 to go to dubai",0,0,1,0,1
+8,moon,3,9,11,You will build your future house with swimming pool,"press 1 to go to vaughan, press 2 to go to vulcano, press 3 to go to mars",0,0,0,1,0
+9,vulcano,2,10,13,"don't do anything to activate volcano, just activate your ipod ","press 1 to go to vegas, press 2 to go to madagascar, press 3 to go to dubai",0,0,0,0,1
+10,madagascar,5,2,7,monkeys and penguins welcomes you while singing I like to move it move it,"press 1 to go to tokyo, press 2 to go to vegas, press 3 to go to forest",0,0,1,1,1
+11,mars,12,9,13,your mercedes is start racing with tesla,"press 1 to go to playground, press 2 to go to vulcano, press 3 to go to dubai",0,0,1,1,1
+12,playground,7,9,2,"many many cute toddlers playing around the ground, love them","press 1 to go to forest, press 2 to go to vulcano, press 3 to go to vegas",0,0,0,0,1
+13,dubai,19,14,16,"welcome to the dubai, jump from the burj khalifa or play golf at 900 ft","press 1 to go to alps, press 2 to go to venice, press 3 to go to new york",0,0,0,0,0
+14,venice,11,5,4,"gandolas welcome you in the city of canals, you're just lost in canal waters","press 1 to go to mars, press 2 to go to tokyo, press 3 to go to casino",0,0,1,0,0
+15,san francisco,8,13,20,"welcome to the most beautiful bustling city, you will visit wold famous prison alcatraz and just lost in it","press 1 to go to moon, press 2 to go to dubai, press 3 to go to texas",0,0,1,1,1
+16,new york,12,5,6,city of architecture where you are roaming aroung the golden park while enjoying hot dog in sunshine,"press 1 to go to playground, press 2 to go to tokyo, press 3 to go to hong kong",0,0,0,1,0
+17,miami,5,14,10,"welcome to the miami, you're just sit in space shuttle to go to mars or playing sand castles on sunny beach","press 1 to go to tokyo, press 2 to go to venice, press 3 to go to madagascar",0,0,1,0,0
+18,london,19,20,13,"welcome to the london, visit the thames river and lost on the streets while listening piyanos and violins","press 1 to go to alps, press 2 to go to texas, press 3 to go to dubai",0,0,0,0,1
+19,alps,14,16,18,"welcome to the alps, you are drinking famous alps water and then going to lost in the alps range","press 1 to go to venice, press 2 to go to new york, press 3 to go to london",0,1,1,1,0
+20,texas,5,17,7,dashing cowboys welcomes you to play guns and red dead redemptions,"press 1 to go to tokyo, press 2 to go to miami, press 3 to go to forest",1,0,0,1,1
